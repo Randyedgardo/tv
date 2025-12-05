@@ -1,6 +1,5 @@
 #EXTM3U  url-tvg="https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz,https://www.open-epg.com/files/mexico1.xml.gz,https://github.com/HelmerLuzo/PlutoTV_HL/raw/4c9e648d2c2b070f43648ca5b231156f5858f019/epg/mx.xml.gz"
 
-
 #EXTINF:-1 ch-number="1" tvg-id="Canal.Azteca.Uno.mx" tvg-logo="https://i.postimg.cc/TwY3MLvh/az-uno.png" group-title="MEXICO", Azteca UNO
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
@@ -11,6 +10,9 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uVUET4HtQPrsl77g16IK6g", "kid":"FYsZZiWz+jpsvUXQgdKJlQ" } ], "type":"temporary" }
 https://nog-live1-ott.izzigo.tv/4/out/u/dash/AZTECA1HD/default.mpd
+
+
+
 
 
 
